@@ -22,10 +22,10 @@
       <div class="bucket">
         <div class="choice-bucket">
           <h4 class="highlight">Where will you live?</h4>
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
+          <input type="text[]">
+          <input type="text[]">
+          <input type="text[]">
+          <input type="text[]">
         </div>
         <div class="choice-bucket">
           <h4 class="highlight">Your future profession?</h4>
